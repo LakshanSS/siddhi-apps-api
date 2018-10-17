@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.siddhi.apps.api.rest.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.siddhi.apps.api.rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siddhi-apps-api.iml" filepath="$PROJECT_DIR$/siddhi-apps-api.iml" />
+    </modules>
+  </component>
+</project>

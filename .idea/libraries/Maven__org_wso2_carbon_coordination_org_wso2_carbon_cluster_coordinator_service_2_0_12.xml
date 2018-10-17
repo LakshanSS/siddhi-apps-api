@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.coordination:org.wso2.carbon.cluster.coordinator.service:2.0.12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/coordination/org.wso2.carbon.cluster.coordinator.service/2.0.12/org.wso2.carbon.cluster.coordinator.service-2.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/coordination/org.wso2.carbon.cluster.coordinator.service/2.0.12/org.wso2.carbon.cluster.coordinator.service-2.0.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/coordination/org.wso2.carbon.cluster.coordinator.service/2.0.12/org.wso2.carbon.cluster.coordinator.service-2.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
